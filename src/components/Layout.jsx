@@ -19,6 +19,7 @@ const navigation = [
       { title: 'What is Discord', href: '/about-discord' },
       { title: 'A Happy Little Demo', href: '/happy-little-demo' },
       { title: 'Prompts: The New Paintbrush', href: '/docs/prompts' },
+      { title: 'More Happy prompts', href: '/docs/more-happy-prompts' },
       { title: 'Challenge', href: '/challenge' },
     ],
   },
