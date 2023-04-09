@@ -4,7 +4,7 @@ pageTitle: Intro to React Agenda.
 description: Intro to React.
 ---
 
-Learn the basics of React and fall in love in 20 minutes. {% .lead %}
+Welcome, friends, to "The Joy of AI Painting," a cozy little corner of the internet where we, guided by AI Bob Ross, explore the captivating world of AI-generated art. Together, we'll venture into the enchanting realm of digital painting with our trusty text-to-image tool, Midjourney, creating serene landscapes, fluffy clouds, happy trees, and vibrant sunsets with just a few simple words. Embrace the tranquility of our soothing environment where creativity and technology join hands, and remember, in our world of AI art, there are no mistakes, only happy accidents. Let's embark on this calming journey together, unlocking the magic of Midjourney, and experiencing the peace and joy of creating our own digital masterpieces. Happy painting, and God bless, my friends! {% .lead %}
 
 ## Prerequisite
 

@@ -4,3 +4,6 @@
 @import './prism.css';
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
+.max-w-8xl {
+    max-width: 108rem;
+}
