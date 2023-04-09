@@ -5,43 +5,29 @@ description: About React.
 ---
 
 
+# Welcome to Discord, My Friends
+Hello there, my friends! Today, we're going to explore the happy little world of Discord. It's a fantastic place where you can connect with fellow artists, share your AI-generated masterpieces, and gather inspiration from others on your journey through "The Joy of AI Painting."
 
-## What is React?
+## What is Discord?
+Discord is a delightful platform that brings people together in a virtual space to chat, share ideas, and nurture their passions. It's like a beautiful meadow where artists, gamers, and friends can gather to enjoy each other's company and share their love for their interests.
 
-React.js or simply React is a free, open-source JavaScript library created by Facebook and is used for building user interfaces. Let's see what the React docs say about it.
+## Channels and Servers
+In the land of Discord, there are serene little places called servers. These are the homes for communities where people with similar interests can gather, just like a group of happy little trees huddling together in a peaceful forest.
 
-### 1. React is declarative
-React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.
+Within these servers, you'll find channels. Channels are like tranquil streams, guiding conversations and ideas in different directions. Some channels are dedicated to text, where you can type your thoughts and chat with others, while others are for voice, where you can talk to your fellow artists and share your wisdom.
 
-Declarative views make your code more predictable and easier to debug.
+## Getting Started with Discord
+To embark on your journey into Discord, you'll need a computer or mobile device with internet access. Simply visit Discord's website or download the app from your device's app store, and you'll be on your way to creating your own little digital paradise.
 
-### 2. React is component-based
+### Creating an Account
+Setting up a Discord account is as easy as painting a happy little cloud. All you need is an email address, a username, and a password. Once you've filled in these details, you'll be welcomed into the wonderful world of Discord, ready to explore and create lasting connections with other artists.
 
-Build encapsulated components that manage their own state, then compose them to make complex UIs.
+### Joining a Server
+To join a server, you'll need an invitation link, like a secret path leading to a hidden oasis. Once you have an invitation link, simply click or tap on it, and you'll be transported to the server, ready to meet your new friends and share your AI-generated creations.
 
-Since component logic is written in JavaScript instead of templates, you can easily pass rich data through your app and keep state out of the DOM.
+### Subscription to Discord
+Although Discord offers a free tier, there's also a subscription called Discord Nitro. With Nitro, you'll unlock a treasure trove of extra features, like enhanced image and video sharing, custom emojis, and more. It's like adding a touch of magic to your Discord experience.
 
+So, my friends, let's dive into the world of Discord and join hands with fellow artists on our journey through "The Joy of AI Painting." Together, we'll create a nurturing community, sharing our masterpieces and spreading the love for AI-generated art.
 
-### 3. Learn React once, write React anywhere
-
-React doesn't make assumptions about the rest of your technology stack, so you can develop new features in React without rewriting existing code.
-
-React can also render on the server using Node and power mobile apps using React Native.
-
-## Why learn React?
-
-   ### 1. High in-demand skill
-      If you are looking for a job in Web Development, you can't go wrong learning React.  If you know React, React Native makes it easy to take those React skills and start making native mobile apps.
-   ### 2. Build complex apps 
-     Do you want to create complex and interactive UI's? Do you want to maintain your sanity in the process? React is a good choice here.
-   ### 3. Large community
-     React is one of the most popular JS libraries out there and that means there will be plenty of resources and support when you are building with it.  It is also maintained and used by Facebook so you can have some security in knowing it will be maintained and updated to keep it relevant. 
-
-## Other options
-
-   React is not the only tool to build user interfaces.  There are many other options but the two popular ones are Angular and Vue. They are all good options but React is the most widely used and established so we will use it.
-
-  
-{% callout type="warning" title="Checkpoint" %}
-Questions, comments, concerns?
-{% /callout %}   
+Happy chatting, and God bless, my friends!

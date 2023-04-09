@@ -48,8 +48,9 @@ export function ThemeSelector(props) {
   let [selectedTheme, setSelectedTheme] = useState()
 
   useEffect(() => {
-    if (selectedTheme) {
-      document.documentElement.setAttribute('data-theme', selectedTheme.value)
+    if (true ||selectedTheme) {
+      // set theme darkMode here
+      document.documentElement.setAttribute('data-theme', 'dark')
     } else {
       setSelectedTheme(
         themes.find(
