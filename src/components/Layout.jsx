@@ -13,11 +13,11 @@ import { ThemeSelector } from '@/components/ThemeSelector'
 
 const navigation = [
   {
-    title: 'Intro To React',
+    title: 'The Joy Of AI Painting',
     links: [
       { title: 'Overview', href: '/' },
-      { title: 'What is React', href: '/about-react' },
-      { title: 'React Demo', href: '/react-demo' },
+      { title: 'What is Discord', href: '/about-discord' },
+      { title: 'A Happy Little Demo', href: '/happy-little-demo' },
       { title: 'Challenge', href: '/challenge' },
     ],
   },

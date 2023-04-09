@@ -7,3 +7,13 @@
 .max-w-8xl {
     max-width: 108rem;
 }
+
+.br{
+    /* background-image: url('https://cdn.midjourney.com/2e8f49b7-e96f-4977-a681-87dd10f492b3/0_3.png') no-repeat;
+    background-size: 100%; */
+    background: url('https://cdn.midjourney.com/2e8f49b7-e96f-4977-a681-87dd10f492b3/0_3.png') no-repeat;
+    background-size: 100%;
+     max-width: 80rem;
+     margin: auto;
+
+}
