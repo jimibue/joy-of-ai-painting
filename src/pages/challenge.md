@@ -31,6 +31,8 @@ Well, isn't that something special? These images capture the essence of Chuck an
 
 I can hit the web button and grab the link
 
+![Chuck and Ross](/public/images/c_r_1.png)
+
 ![Chuck and Ross](/src/images/brokeback.png)
 
 ![Chuck and Ross](https://www.midjourney.com/app/jobs/3cf3359f-5906-4cb5-983e-7dd17b036931/)
