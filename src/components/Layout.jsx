@@ -16,8 +16,7 @@ const navigation = [
     title: 'The Joy Of AI Painting',
     links: [
       { title: 'Overview', href: '/' },
-      { title: 'What is Discord', href: '/about-discord' },
-      { title: 'A Happy Little Demo', href: '/happy-little-demo' },
+      { title: 'Getting setup', href: '/happy-little-demo' },
       { title: 'Prompts: The New Paintbrush', href: '/docs/prompts' },
       { title: 'More Happy prompts', href: '/docs/more-happy-prompts' },
       { title: 'Challenge', href: '/challenge' },
@@ -30,6 +29,12 @@ const navigation = [
       
       { title: 'Challenge', href: '/docs/challenge' },
     ],
+  },
+  {
+    title: "Discord",
+    links: [
+      { title: 'What is Discord', href: '/about-discord' },
+    ]
   },
 
 ]

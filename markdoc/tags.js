@@ -23,11 +23,30 @@ const tags = {
       caption: { type: String },
     },
     render: ({ src, alt = '', caption }) => (
-      <figure className='img-container'>
+      <figure className="img-container">
         {/* eslint-disable-next-line @next/next/no-img-element */}
         <img src={src} alt={alt} />
         <figcaption>{caption}</figcaption>
       </figure>
+    ),
+  },
+  video: {
+    selfClosing: true,
+    attributes: {
+      src: { type: String },
+      alt: { type: String },
+      caption: { type: String },
+    },
+    render: ({ src, alt = '', caption }) => (
+      <iframe
+        width="560"
+        height="315"
+        src="https://www.youtube.com/embed/lJIrF4YjHfQ"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen
+      ></iframe>
     ),
   },
   'quick-links': {

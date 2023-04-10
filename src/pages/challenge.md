@@ -6,6 +6,8 @@ description: Try to create a card for Chuck Norris
 
 A card for Chuck. {% .lead %}
 
+{% video src="/images/c_r_1.png" caption="b and r"/%}
+
 ## Instructions
 
 Well, let's go on a little adventure and create a one-of-a-kind card for my dear friend Chuck Norris. We shared a magical camping trip just last weekend, and I want to send him a heartfelt, customized card to remember our time together. We'll start with this gentle prompt:
