@@ -17,3 +17,13 @@
      margin: auto;
 
 }
+
+.full-image{
+    margin:auto;
+    max-width: 500px;
+}
+
+.img-container{
+    /* margin:auto; */
+    max-width: 500px;
+}

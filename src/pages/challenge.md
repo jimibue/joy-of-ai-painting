@@ -1,21 +1,21 @@
 ---
-title: Intro to React Challenge
-pageTitle: Intro to React Challenge
-description: Intro to React Challenge
+title: Our First Challenge
+pageTitle: Our First Challenge
+description: Try to create a card for Chuck Norris
 ---
 
-Test your skills. {% .lead %}
+A card for Chuck. {% .lead %}
 
 ## Instructions
 
 Well, let's go on a little adventure and create a one-of-a-kind card for my dear friend Chuck Norris. We shared a magical camping trip just last weekend, and I want to send him a heartfelt, customized card to remember our time together. We'll start with this gentle prompt:
 
 ```
-bob ross with chuck norris in a landscape with mountains, trees, and a tranquil lake, bob ross style --v 5 
+bob ross with chuck norris in a landscape 
+with mountains, trees, and a tranquil lake, 
+bob ross style --v 5 
 ```
-Let's see what happy little images we get from this:
-
-PIC HERE
+{% figure src="/images/c_r_2.png" caption="b and r"/%}
 
 
 Oh my, look at that! I seem to be quite the towering figure, while Chuck is just a happy little speck in the scene. It's just one of those charming little accidents that make life interesting. I'm quite fond of tiles 2 and 3, so I'll create some variations on them, like adding some fluffy clouds or maybe a friendly squirrel. But, you know, I feel like giving that prompt another try:
@@ -31,9 +31,27 @@ Well, isn't that something special? These images capture the essence of Chuck an
 
 I can hit the web button and grab the link
 
-![Chuck and Ross](/public/images/c_r_1.png)
 
-![Chuck and Ross](/src/images/brokeback.png)
+![Chuck and Ross](/images/c_r_1.png)
 
-![Chuck and Ross](https://www.midjourney.com/app/jobs/3cf3359f-5906-4cb5-983e-7dd17b036931/)
+```javascript
+  figure: {
+    selfClosing: true,
+    attributes: {
+      src: { type: String },
+      alt: { type: String },
+      caption: { type: String },
+    },
+    render: ({ src, alt = '', caption }) => (
+      <figure className='img-container'>
+        {/* eslint-disable-next-line @next/next/no-img-element */}
+        <img src={src} alt={alt} className='full-image'/>
+        <figcaption>{caption}</figcaption>
+      </figure>
+    ),
+  },
+```
+
+{% figure src="/images/c_r_1.png" caption="b and r"/%}
+
 
