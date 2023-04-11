@@ -19,13 +19,7 @@ An open canvas in your mind, eager to be filled with colorful wonders
 
 Sign up for Midjourney here {% redirect-link title="here." href="https://codesandbox.io/signin" /%}
 
-## What you will learn
 
-- What is React and why you should learn React
-- JSX
-- Components in React
-- Handling basic events in react
-- What props and state are in React
 
 {% callout type="warning" title="Checkpoint" %}
 Questions, comments, concerns before we begin?
